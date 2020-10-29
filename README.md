@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/sprites/phantom.gif' width='20%'>  
+<img align='right' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/sprites/phantom.gif' width='30%'>  
 
 ## Welcome to my profile! :upside_down_face:
 Co-founder of [MontaniaSoft](http://apps.montaniasoft.info), Web developer.  
@@ -11,7 +11,7 @@ I love read :books: , *Horror books are my favorites* :ghost: . and programming 
 
 | <a href="http://apps.controlcontable.com" target="_blank">**Control contable**</a> | <a href="https://app.wispfree.com" target="_blank">**Wispfree**</a> |
 | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/controlc.ico' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/wispfree.png' height='100px'> |
+| <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/controlc.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/wispfree.png' height='100px'> |
 | <a href="http://apps.controlcontable.com" target="_blank">`http://apps.controlcontable.com`</a> | <a href="http://app.wispfree.com" target="_blank">`http://app.wispfree.com`</a> |
 
 ### Skills :man_technologist:
