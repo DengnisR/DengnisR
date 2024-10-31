@@ -12,12 +12,11 @@ I love read :books: , *Horror books are my favorites* :ghost: . and programming 
 | <a href="http://apps.controlcontable.com" target="_blank">**Control contable**</a> | <a href="https://app.wispfree.com" target="_blank">**Wispfree**</a> |
 | :---: | :---: |
 | <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/controlc.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/wispfree.png' height='100px'> |
-| <a href="http://apps.controlcontable.com" target="_blank">`http://apps.controlcontable.com`</a> | <a href="http://app.wispfree.com" target="_blank">`http://app.wispfree.com`</a> |
+| <a href="http://apps.controlcontable.com" target="_blank">`http://apps.controlcontable.com`</a> | <a href="http://wispfree.net" target="_blank">`http://wispfree.net`</a> |
 
 ### Skills :man_technologist:
 
 <p align="center">
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/angular.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/css.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/express.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/html.png' height='50px'>
@@ -25,7 +24,6 @@ I love read :books: , *Horror books are my favorites* :ghost: . and programming 
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/mongo.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/nodejs.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/php.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/python.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/react.png' height='50px'>
   <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/vue.png' height='50px'>
 </p>
