@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **[https://dengnisvillamil.blogspot.com/](https://dengnisvillamil.blogspot.com/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/resume-cv](https://drive.google.com/resume-cv)**
+- 📄 Know about my experiences **[https://drive.google.com/resume-cv](https://drive.google.com/file/d/1fmyeq_NgUqokKsWkkB03XLePSu_s4UBj/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
