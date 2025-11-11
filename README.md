@@ -1,33 +1,44 @@
-<img align='right' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/sprites/phantom.gif' width='30%'>  
+# Hi 👋, I'm Dengnis Villamil
 
-## Welcome to my profile! :upside_down_face:
-Co-founder of [MontaniaSoft](http://apps.montaniasoft.info), Web developer.  
+### Web developer
 
-I love read :books: , *Horror books are my favorites* :ghost: . and programming :computer: *When I feel like it. The rest is tedious*. :zzz:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DengnisR&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/DengnisR" /> </p>
 
-### Projects :briefcase:
+- 🔭 I'm currently working on **a project with Quasar v2. It's a project for managing an ISP.**
 
->Take a look at my projects
+- 🌱 I'm currently learning **GraphQL, React and Java Spring Boot**
 
-| <a href="http://apps.controlcontable.com" target="_blank">**Control contable**</a> | <a href="https://app.wispfree.com" target="_blank">**Wispfree**</a> |
-| :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/controlc.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/projects/wispfree.png' height='100px'> |
-| <a href="http://apps.controlcontable.com" target="_blank">`http://apps.controlcontable.com`</a> | <a href="http://wispfree.net" target="_blank">`http://wispfree.net`</a> |
+- 👯 I'm looking to collaborate on **nothing for now, but I'd like to work on an active team.**
 
-### Skills :man_technologist:
+- 🤝 I'm looking for help with **Web systems developed in PHP and JS are what I am most versed in.**
 
-<p align="center">
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/css.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/express.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/html.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/javascript.jpg' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/mongo.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/nodejs.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/php.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/react.png' height='50px'>
-  <img style="padding: 10px;"  src='https://raw.githubusercontent.com/DengnisR/DengnisR/main/skills/vue.png' height='50px'>
+- 💬 Ask me about **Laravel and Vue.**
+
+- 📫 How to reach me **dengnis97@gmail.com**
+
+- ⚡ Fun fact **I enjoy reading and listening to music. I also enjoy developing unusual applications. Building something from scratch is something I'm passionate about.**
+
+- 👨‍💻 All of my projects are available at **[http://dengnisr.github.io/mi-portfolio/](http://dengnisr.github.io/mi-portfolio/)**
+
+- 📝 I regularly write articles on **[https://dengnisvillamil.blogspot.com/](https://dengnisvillamil.blogspot.com/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/resume-cv](https://drive.google.com/resume-cv)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/https://github.com/DengnisR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/DengnisR" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/dengnisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dengnisr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/your-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26970371/renis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26970371/renis" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@dengnis97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dengnis97" height="30" width="40" /></a>
 </p>
 
-### Pinned Repositories :octocat:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/quasar" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
->Take a look at my repositories.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DengnisR&show_icons=true&locale=en&layout=compact" alt="https://github.com/DengnisR" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DengnisR&show_icons=true&locale=en" alt="https://github.com/DengnisR" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DengnisR&" alt="https://github.com/DengnisR" /></p>
