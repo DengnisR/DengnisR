@@ -2,8 +2,6 @@
 
 ### Web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DengnisR&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/DengnisR" /> </p>
-
 - 🔭 I'm currently working on **a project with Quasar v2. It's a project for managing an ISP.**
 
 - 🌱 I'm currently learning **GraphQL, React and Java Spring Boot**
@@ -40,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DengnisR&show_icons=true&locale=en&layout=compact" alt="https://github.com/DengnisR" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DengnisR&show_icons=true&locale=en" alt="https://github.com/DengnisR" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DengnisR&" alt="https://github.com/DengnisR" /></p>
