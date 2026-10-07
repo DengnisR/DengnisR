@@ -1,12 +1,7 @@
 <div align="center">
 
-# 🚀 Dengnis Villamil
+# 🧔 Dengnis Villamil
 ### **Senior Full-Stack Developer & AI-Assisted Engineer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dengnisr.github.io-blue?style=for-the-badge&logo=googlechrome)](http://dengnisr.github.io/mi-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dengnis_Villamil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/)
-[![Blog](https://img.shields.io/badge/Blog-dengnisvillamil-FF5722?style=for-the-badge&logo=blogger)](https://dengnisvillamil.blogspot.com/)
-[![CV](https://img.shields.io/badge/Resume-Ver_CV-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fmyeq_NgUqokKsWkkB03XLePSu_s4UBj/view?usp=drive_link)
 
 </div>
 
@@ -18,10 +13,10 @@ Desarrollador Web Full-Stack apasionado por construir aplicaciones modernas, esc
 
 Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asistidos por IA** en mi día a día, potenciando la productividad en la generación de código, refactorización, pruebas y diseño de arquitecturas cloud/serverless en la nube.
 
-- 🔭 **Trabajando actualmente en:** *WISP Free Cloud*, una solución integral de gestión para ISPs en Quasar v2 y Laravel 11[cite: 1].
+- 🔭 **Trabajando actualmente en:** *WISP Free Cloud*, una solución integral de gestión para ISPs en Quasar v2 y Laravel 11.
 - 🤖 **Adopción de IA:** Aplicando desarrollo guiado por agentes de IA, optimización con LLMs y workflows modernos de ingeniería.
-- 🌱 **Ampliando conocimientos:** GraphQL, React, Java Spring Boot y arquitecturas Edge con Cloudflare Workers[cite: 1].
-- 📫 **Contacto:** [dengnis97@gmail.com](mailto:dengnis97@gmail.com)[cite: 1]
+- 🌱 **Ampliando conocimientos:** GraphQL, React, Java Spring Boot y arquitecturas Edge con Cloudflare Workers.
+- 📫 **Contacto:** [dengnis97@gmail.com](mailto:dengnis97@gmail.com)
 
 ---
 
