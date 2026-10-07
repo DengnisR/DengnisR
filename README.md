@@ -44,9 +44,9 @@ Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asisti
       <br />
       <img src="https://skillicons.dev/icons?i=ts" width="70" alt="CapiChat" />
       <h3><b>CapiChat</b></h3>
-      <p>Plataforma de mensajería e interacción en tiempo real con diseño responsivo y moderno.</p>
+      <p>Capichat unifica bot, CRM y trazabilidad para que atiendas mas rapido, con mejor calidad y con una operacion auditable de extremo a extremo.</p>
       <p>
-        <code>TypeScript</code> <code>Vue/React</code> <code>WebSockets</code>
+        <code>TypeScript</code> <code>Vue/Node</code> <code>WebSockets</code>
       </p>
       <a href="https://www.capichat.net/" target="_blank"><b>🌐 Visitar Sitio Web</b></a>
       <br /><br />
@@ -57,22 +57,22 @@ Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asisti
       <br />
       <img src="https://magictv.dengnis97.workers.dev/favicon.svg" width="70" alt="MagicTV" />
       <h3><b>MagicTV</b></h3>
-      <p>Plataforma multimedia ligera desplegada sobre arquitectura Edge de alto rendimiento.</p>
+      <p>Magic TV es una versión adaptada (port) optimizada basada en el código abierto de Kodi Nexus 20.5.</p>
       <p>
         <code>Cloudflare Workers</code> <code>JavaScript</code> <code>Serverless</code>
       </p>
-      <a href="https://magictv.dengnis97.workers.dev/" target="_blank"><b>🌐 Ver Demo en Vivo</b></a>
+      <a href="https://magictv.dengnis97.workers.dev/" target="_blank"><b>🌐 Visitar Sitio Web</b></a>
       <br /><br />
     </td>
     <td width="50%" align="center" valign="top">
       <br />
       <img src="https://forever-identity.dengnis97.workers.dev/favicon.svg" width="70" alt="Forever Identity" />
       <h3><b>Forever Identity</b></h3>
-      <p>Solución Serverless en el Edge orientada a gestión y resolución de identidad digital.</p>
+      <p>Suit de identidad rolero para la creacion de personajes y nombres en Wow Forever</p>
       <p>
-        <code>Cloudflare Workers</code> <code>Security</code> <code>API Edge</code>
+        <code>Cloudflare Workers</code> <code>Herramienta</code> <code>Entretenimiento</code>
       </p>
-      <a href="https://forever-identity.dengnis97.workers.dev/" target="_blank"><b>🌐 Ver Demo en Vivo</b></a>
+      <a href="https://forever-identity.dengnis97.workers.dev/" target="_blank"><b>🌐 Visitar Sitio Web</b></a>
       <br /><br />
     </td>
   </tr>
