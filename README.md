@@ -1,40 +1,111 @@
-# Hi 👋, I'm Dengnis Villamil
+<div align="center">
 
-### Web developer
+# 🚀 Dengnis Villamil
+### **Senior Full-Stack Developer & AI-Assisted Engineer**
 
-- 🔭 I'm currently working on **a project with Quasar v2. It's a project for managing an ISP.**
+[![Portfolio](https://img.shields.io/badge/Portfolio-dengnisr.github.io-blue?style=for-the-badge&logo=googlechrome)](http://dengnisr.github.io/mi-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dengnis_Villamil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/)
+[![Blog](https://img.shields.io/badge/Blog-dengnisvillamil-FF5722?style=for-the-badge&logo=blogger)](https://dengnisvillamil.blogspot.com/)
+[![CV](https://img.shields.io/badge/Resume-Ver_CV-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1fmyeq_NgUqokKsWkkB03XLePSu_s4UBj/view?usp=drive_link)
 
-- 🌱 I'm currently learning **GraphQL, React and Java Spring Boot**
+</div>
 
-- 👯 I'm looking to collaborate on **nothing for now, but I'd like to work on an active team.**
+---
 
-- 🤝 I'm looking for help with **Web systems developed in PHP and JS are what I am most versed in.**
+### 👨‍💻 Sobre Mí & Filosofía de Desarrollo
 
-- 💬 Ask me about **Laravel and Vue.**
+Desarrollador Web Full-Stack apasionado por construir aplicaciones modernas, escalables y eficientes desde cero. Con sólida experiencia en el ecosistema **PHP (Laravel)** y **JavaScript/TypeScript (Vue.js, Quasar, Node.js)**. 
 
-- 📫 How to reach me **dengnis97@gmail.com**
+Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asistidos por IA** en mi día a día, potenciando la productividad en la generación de código, refactorización, pruebas y diseño de arquitecturas cloud/serverless en la nube.
 
-- ⚡ Fun fact **I enjoy reading and listening to music. I also enjoy developing unusual applications. Building something from scratch is something I'm passionate about.**
+- 🔭 **Trabajando actualmente en:** *WISP Free Cloud*, una solución integral de gestión para ISPs en Quasar v2 y Laravel 11[cite: 1].
+- 🤖 **Adopción de IA:** Aplicando desarrollo guiado por agentes de IA, optimización con LLMs y workflows modernos de ingeniería.
+- 🌱 **Ampliando conocimientos:** GraphQL, React, Java Spring Boot y arquitecturas Edge con Cloudflare Workers[cite: 1].
+- 📫 **Contacto:** [dengnis97@gmail.com](mailto:dengnis97@gmail.com)[cite: 1]
 
-- 👨‍💻 All of my projects are available at **[http://dengnisr.github.io/mi-portfolio/](http://dengnisr.github.io/mi-portfolio/)**
+---
 
-- 📝 I regularly write articles on **[https://dengnisvillamil.blogspot.com/](https://dengnisvillamil.blogspot.com/)**
+### 📦 Proyectos Destacados
 
-- 📄 Know about my experiences **[https://drive.google.com/resume-cv](https://drive.google.com/file/d/1fmyeq_NgUqokKsWkkB03XLePSu_s4UBj/view?usp=drive_link)**
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://www.wispfreecloud.net/icons/icon-512x512.png" width="70" alt="WISP Free Cloud" />
+      <h3><b>WISP Free Cloud</b></h3>
+      <p>Plataforma para la administración integral de Proveedores de Servicios de Internet (ISP) y control de red[cite: 1].</p>
+      <p>
+        <code>Quasar v2</code> <code>Vue 3</code> <code>Laravel 11</code>
+      </p>
+      <a href="https://www.wispfreecloud.net/" target="_blank"><b>🌐 Visitar Sitio Web</b></a>
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=ts" width="70" alt="CapiChat" />
+      <h3><b>CapiChat</b></h3>
+      <p>Plataforma de mensajería e interacción en tiempo real con diseño responsivo y moderno.</p>
+      <p>
+        <code>TypeScript</code> <code>Vue/React</code> <code>WebSockets</code>
+      </p>
+      <a href="https://www.capichat.net/" target="_blank"><b>🌐 Visitar Sitio Web</b></a>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://magictv.dengnis97.workers.dev/favicon.svg" width="70" alt="MagicTV" />
+      <h3><b>MagicTV</b></h3>
+      <p>Plataforma multimedia ligera desplegada sobre arquitectura Edge de alto rendimiento.</p>
+      <p>
+        <code>Cloudflare Workers</code> <code>JavaScript</code> <code>Serverless</code>
+      </p>
+      <a href="https://magictv.dengnis97.workers.dev/" target="_blank"><b>🌐 Ver Demo en Vivo</b></a>
+      <br /><br />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <img src="https://forever-identity.dengnis97.workers.dev/favicon.svg" width="70" alt="Forever Identity" />
+      <h3><b>Forever Identity</b></h3>
+      <p>Solución Serverless en el Edge orientada a gestión y resolución de identidad digital.</p>
+      <p>
+        <code>Cloudflare Workers</code> <code>Security</code> <code>API Edge</code>
+      </p>
+      <a href="https://forever-identity.dengnis97.workers.dev/" target="_blank"><b>🌐 Ver Demo en Vivo</b></a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/DengnisR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/DengnisR" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/dengnisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dengnisr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/" height="30" width="40" /></a>
-<a href="https://codepen.io/https://codepen.io/your-work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26970371/renis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26970371/renis" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@dengnis97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dengnis97" height="30" width="40" /></a>
+---
+
+### 🛠️ Lenguajes, Frameworks & Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,vue,quasar,nodejs,docker,git,mysql,postgres,mongodb,nginx,postman,cloudflare" alt="Mis Habilidades" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/quasar" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DengnisR&show_icons=true&locale=en&layout=compact" alt="https://github.com/DengnisR" /></p>
+### 🌐 Redes & Conexiones
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DengnisR&show_icons=true&locale=en" alt="https://github.com/DengnisR" /></p>
+<p align="left">
+  <a href="https://github.com/DengnisR" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dengnis-omar-villamil-useche-3579aa178/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://dev.to/dengnisr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://codepen.io/your-work" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/26970371/renis" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+  <a href="https://medium.com/@dengnis97" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DengnisR&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DengnisR&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
