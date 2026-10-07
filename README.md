@@ -33,7 +33,7 @@ Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asisti
       <br />
       <img src="https://www.wispfreecloud.net/icons/icon-512x512.png" width="70" alt="WISP Free Cloud" />
       <h3><b>WISP Free Cloud</b></h3>
-      <p>Plataforma para la administración integral de Proveedores de Servicios de Internet (ISP) y control de red[cite: 1].</p>
+      <p>Plataforma para la administración integral de Proveedores de Servicios de Internet (ISP) y control de red.</p>
       <p>
         <code>Quasar v2</code> <code>Vue 3</code> <code>Laravel 11</code>
       </p>
@@ -68,7 +68,7 @@ Actualmente he integrado la **Inteligencia Artificial y flujos de trabajo asisti
       <br />
       <img src="https://forever-identity.dengnis97.workers.dev/favicon.svg" width="70" alt="Forever Identity" />
       <h3><b>Forever Identity</b></h3>
-      <p>Suit de identidad rolero para la creacion de personajes y nombres en Wow Forever</p>
+      <p>Suit de identidad rolero para la creacion de personajes y nombres en Wow Forever.</p>
       <p>
         <code>Cloudflare Workers</code> <code>Herramienta</code> <code>Entretenimiento</code>
       </p>
